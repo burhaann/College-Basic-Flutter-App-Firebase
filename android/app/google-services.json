@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402910223971",
+    "project_id": "remote-6b018",
+    "storage_bucket": "remote-6b018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402910223971:android:2ea29bd4504ce105b32256",
+        "android_client_info": {
+          "package_name": "spc.online.remote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402910223971-kpjb5j0tgk2ja0t96h83cmrhk631dlk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPGUY3L2EQ7a_Qqjotd6S6S9znZMv11Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402910223971-kpjb5j0tgk2ja0t96h83cmrhk631dlk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
